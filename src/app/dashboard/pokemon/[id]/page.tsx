@@ -1,4 +1,4 @@
-import { Pokemon } from '@/app/pokemons'
+import { Pokemon } from '@/pokemons'
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
 
